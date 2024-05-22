@@ -35,8 +35,10 @@ Go to the project directory
 ```bash
     php artisan storage:link
 ```
-
-#### Login
+```bash
+    php artisan start serve
+```
+#### Login admin
 
 -   email = admin@example.com
 -   password = 123
