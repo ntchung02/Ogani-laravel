@@ -1,8 +1,4 @@
-# Laravel 9 & React js - Ecommerce application
-
-## Screenshots
-
-![preview img](/preview.png)
+# OganiFood
 
 ## Run Locally
 
@@ -18,7 +14,7 @@ Go to the project directory
   cd project-name
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   edit .env and database 
 
 ```bash
     composer install
